@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y4kSfkiIHBxU2BtW3/S3MqBdO8zCTblZc0NVIA254jeRdsGf3MSVO/ignlpJVp+VvqgubLQxt2Mro15+bN1YdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\Coding\\Csharp Projects\\PhysicsEngine2D\\PhysicsEngine2D\\PhysicsEngine2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
