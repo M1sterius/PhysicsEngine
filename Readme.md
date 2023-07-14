@@ -1,3 +1,3 @@
 # PhysicsEngine
 
-2-Dimensional physics engine developed in c# by Kirill Gerasimov.
+2-Dimensional physics engine developed in c#
